@@ -5,6 +5,11 @@
     - シェルの概要
 - 基本的な使い方
     - Linuxコマンド
+        - mkdir
+        - cd
+        - touch
+        - cat
+        - vi
     - echoコマンド
     - 変数
     - 配列
