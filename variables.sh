@@ -1,3 +1,3 @@
 # 変数サンプル
-var="variableです"
-echo $var
+x="変数です"
+echo $x
